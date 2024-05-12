@@ -10,6 +10,6 @@ You have to press a single WASD key followed by the enter key to make the snake 
 
 
 ### Installation
-To play the game, clone the repo, navigate to the directory containing the Game.java file, and run:
+To play the game, clone the repo, navigate to the directory containing the Game.class file, and run:
 
 $ java Game
